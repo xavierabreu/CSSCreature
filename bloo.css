@@ -1,3 +1,9 @@
+#bloo {
+    position: absolute;
+    left: 500px;
+    bottom: 10px;
+}
+
 #bodyTop {
     position: relative;
     height: 300px;
