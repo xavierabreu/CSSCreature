@@ -1,0 +1,17 @@
+#bodyTop {
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(83, 138, 241);
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#bodyBottom {
+    position: relative;
+    height: 380px;
+    width: 300px;
+    top: 157px;
+    background-color: rgb(83,138,241);
+}
